@@ -1,0 +1,6 @@
+repo: 19884bcd2ab124b091e3e8960cd1793eb2e6591d
+node: d869255bd9c02c8b2efb1038965ab5f8150221a1
+branch: default
+latesttag: xunitcontrib-dotcover.1.2
+latesttag: xunitcontrib-resharper.1.2
+latesttagdistance: 3
